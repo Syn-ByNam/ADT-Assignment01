@@ -20,9 +20,10 @@ This project is a simple student management system written in Java. It reads stu
 
 ## How to Use
 
-1. Clone this repository to your local machine
-2. Compile the program: javac StudentManager.java
-3. Run the program: java StudentManager
+1. Clone this repository to your local machine:git clone https://github.com/Chnlchtpny/ADT-Assignment01.git
+2. Navigate to the project directory: cd student-manager
+3. Compile the program: javac StudentManager.java
+4. Run the program: java StudentManager
 
 5. The program will display options for sorting or searching student records. You can choose one of the following options:
 - `-n` : Sort by student number
