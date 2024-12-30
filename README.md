@@ -20,7 +20,7 @@ This project is a simple student management system written in Java. It reads stu
 
 ## How to Use
 
-1. Clone this repository to your local machine:git clone https://github.com/Chnlchtpny/ADT-Assignment01.git
+1. Clone this repository to your local machine:git clone https://github.com/Syn-ByNam/ADT-Assignment01.git
 2. Navigate to the project directory: cd student-manager
 3. Compile the program: javac StudentManager.java
 4. Run the program: java StudentManager
@@ -57,4 +57,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Author
 
-Chnlchtpny
+Syn-ByNam
