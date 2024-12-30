@@ -20,9 +20,14 @@ This project is a simple student management system written in Java. It reads stu
 
 ## How to Use
 
-1. Clone this repository to your local machine:git clone https://github.com/Syn-ByNam/ADT-Assignment01.git
-2. Navigate to the project directory: cd student-manager
+1. Clone this repository to your local machine:
+   ```bash
+   git clone https://github.com/Syn-ByNam/[student-manager.git](https://github.com/Syn-ByNam/ADT-Assignment01)
+
+2. Navigate to the project directory: cd C:\Users\ACER\Desktop\ADT TEST\src
+
 3. Compile the program: javac StudentManager.java
+
 4. Run the program: java StudentManager
 
 5. The program will display options for sorting or searching student records. You can choose one of the following options:
@@ -58,3 +63,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Author
 
 Syn-ByNam
+
+
+
+
+
